@@ -1,0 +1,31 @@
+@charset "UTF-8";
+
+* {
+
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+body {
+    background-image: url(imagens/depositphotos_42356781-stock-photo-underwater-view-with-sandy-seabed.jpg);
+}
+
+main {
+    background-color: rgb(29, 27, 27);
+    width: 600px;
+    padding: 10px;
+    margin: auto;
+}
+
+h1 {
+    color: #0CABA8;
+}
+
+h2 {
+    color: #0CABA8;
+}
+
+p {
+    color: #0CABA8;
+    text-align: justify;
+}
